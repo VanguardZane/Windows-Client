@@ -1,0 +1,24 @@
+# Windows Pro
+Builds on Windows home with extra features to suit the needs of small and medium sized businesses. Provides feature like BitLocker and virtualization
+
+## Pro edition features:
+
+- Windows Autopilot: Windows Autopilot uses an existing Windows installation to transform or reset the device to a “business-ready” state, applying settings, policies, apps, and edition changes without reimaging.
+- Dynamic Provisioning: Dynamic Provisioning allows an organization's out-of-the-box PC to be configured with minimal effort.
+- Mobile Device Management (MDM) support: Mobile Device Management support allows devices to be managed through an MDM service instead of traditional management solutions.
+- Domain Join: Computers can join the Active Directory domain.
+- Ability to join Microsoft Entra ID: This ability enables users to perform single sign-on across Windows, Microsoft 365, and other cloud-hosted apps and services.
+- Group Policy Management: Domain joined computers support the Group Policy Management feature.
+- BitLocker: BitLocker functions as a complete volume encryption and boot environment protection solution.
+- Windows Information Protection (with MDM management) helps protects apps and data leaks on organization and personally owned devices.
+- Assigned Access: Allows devices to run different applications based on the user.
+- Remote Desktop: This feature enables Remote Desktop connections from compatible Remote Desktop Connection clients.
+- Client Hyper-V: Client Hyper-V allows you to host virtual machines on a client computer with sufficient hardware resources.
+- Microsoft Store for Business: Single store for finding and managing apps in an organization.
+- Windows Update for Business: A cloud-based Windows Update solution can configure distribution rings, maintenance windows, peer-to-peer delivery, and integration with tools like Microsoft Intune.
+- Enterprise Data Protection: This new Windows feature lets organizations control which applications can access sensitive data.
+- Granular user-interface Control: This feature enables administrators to lock the user interface so that users can perform specific tasks only. This feature is useful when deploying Windows as a kiosk.
+- Enterprise State Roaming: Enterprise State Roaming provides users a unified experience across organizational Windows devices.
+
+
+
